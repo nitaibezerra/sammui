@@ -64,7 +64,7 @@ Manual Installation
 
 Clone the project :
 
-	git clone git@github.com:renatomefidf/sammui sammui
+	git clone git@github.com/renatomefidf/sammui sammui
 
 Update packages :
 
